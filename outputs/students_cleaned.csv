@@ -1,0 +1,10 @@
+Name,Score,Attendance,Gender,Result,Grade,GenderCode,ScoreScaled,AttendanceScaled
+Alice,85.0,92.0,Female,Pass,A,0,0.844,0.914
+Ben,72.0,80.0,Male,Pass,B,1,0.438,0.571
+Cathy,90.0,95.0,Female,Pass,A,0,1.0,1.0
+David,75.86,60.0,Male,Pass,B,1,0.558,0.0
+Ella,58.0,82.75,Female,Pass,D,0,0.0,0.65
+Frank,75.86,70.0,Male,Pass,B,1,0.558,0.286
+Grace,75.86,88.0,Female,Pass,B,0,0.558,0.8
+Henry,65.0,82.75,Male,Pass,C,1,0.219,0.65
+Ivy,76.0,85.0,Female,Pass,B,0,0.562,0.714
